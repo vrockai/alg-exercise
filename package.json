@@ -1,0 +1,14 @@
+{
+  "name": "alg-template",
+  "version": "1.0.0",
+  "description": "Minimal project template for an algorithm solving exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "vrockai",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
